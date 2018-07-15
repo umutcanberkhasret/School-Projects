@@ -1,6 +1,6 @@
 
 '''Simple algorithm to find "TATA" boxes that points where a genetic sequence can be
-read and decoded. '''
+read and decode. '''
 
 fileContent = open("C:\Python27\ATgene.fa", "r")
 
